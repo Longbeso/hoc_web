@@ -1,0 +1,10 @@
+p.center {
+  color: red;
+  text-align: center;
+}
+a:hover {
+  color: red;
+}
+p.demuc {
+  color: green;
+}
